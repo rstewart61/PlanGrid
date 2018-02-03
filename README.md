@@ -8,6 +8,9 @@ Allows players to play Rock Paper Scissors over the Internet.
 4. Once both players have chosen, results are communicated to each user.
 5. Repeat from step #2.
 
+### Running ###
+For best results, load project in Eclipse and run on Apache Tomcat 8.5.
+
 ### Testing ###
 See com.plangrid.rockpaperscissors.Test for a basic unit test of functionality
 

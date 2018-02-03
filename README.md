@@ -12,7 +12,7 @@ Allows players to play Rock Paper Scissors over the Internet.
 For best results, load project in Eclipse and run on Apache Tomcat 8.5.
 
 ### Testing ###
-See com.plangrid.rockpaperscissors.Test for a basic unit test of functionality
+See com.plangrid.rockpaperscissors.Test for a basic unit test of functionality.
 
 The game keeps track of the current user's session. To test two players taking turns, please open a new private browsing tab for the second player.
 
